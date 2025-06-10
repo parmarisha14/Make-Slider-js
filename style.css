@@ -3,7 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body{
+  background:linear-gradient(to left,#C6FCFF ,#ffb5c0,#dab1da);
+}
 .carousel-container {
   position: relative;
   width: 100%;
