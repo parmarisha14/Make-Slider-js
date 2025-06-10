@@ -1,7 +1,9 @@
 Live Project:: https://make-slider-js.vercel.app/
 
 
-![Screenshot 2025-06-10 104221](https://github.com/user-attachments/assets/c07a2da1-0233-42df-95ab-7f8481142c51)
+![Screenshot 2025-06-10 211356](https://github.com/user-attachments/assets/7b61eefc-d802-481a-a646-4a4e95dad3f8)
+
+
 
 📝 Project Title
 
@@ -25,10 +27,13 @@ JavaScript (Vanilla) – Carousel functionality
 
 
 
-├── index.html          # Main HTML file
-├── style.css           # Custom CSS styles
-├── script.js          # Carousel functionality
-└── /images            # Folder containing image1.jpg, image2.jpg, image3.jpg
+├── index.html                  # Main HTML file
+
+├── style.css                   # Custom CSS styles
+
+├── script.js                   # Carousel functionality
+
+└── /images                    # Folder containing image1.jpg, image2.jpg, image3.jpg
 
 📄 File Details
 
